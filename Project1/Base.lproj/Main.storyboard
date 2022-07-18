@@ -62,11 +62,11 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="k7B-88-CNb" firstAttribute="centerY" secondItem="fny-ZE-dRN" secondAttribute="centerY" id="A9d-NN-oMv"/>
+                            <constraint firstItem="k7B-88-CNb" firstAttribute="top" secondItem="fny-ZE-dRN" secondAttribute="top" id="WOr-ts-O9l"/>
                             <constraint firstItem="k7B-88-CNb" firstAttribute="leading" secondItem="9hh-uk-j6y" secondAttribute="leading" id="fYe-0u-W8v"/>
                             <constraint firstItem="k7B-88-CNb" firstAttribute="centerX" secondItem="fny-ZE-dRN" secondAttribute="centerX" id="sKd-RW-l3k"/>
                             <constraint firstItem="k7B-88-CNb" firstAttribute="trailing" secondItem="9hh-uk-j6y" secondAttribute="trailing" id="vSv-ot-HA9"/>
                             <constraint firstAttribute="bottom" secondItem="k7B-88-CNb" secondAttribute="bottom" id="x20-W4-C9y"/>
-                            <constraint firstItem="k7B-88-CNb" firstAttribute="top" secondItem="fny-ZE-dRN" secondAttribute="top" id="zKv-SM-Y4k"/>
                         </constraints>
                     </view>
                     <connections>
